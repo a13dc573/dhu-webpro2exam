@@ -1,0 +1,26 @@
+body{
+	background-color:#6FC;
+}
+
+#head{
+	margin-top:50px;
+	text-align:center;
+	color:#30F;
+	background-color:#CF0;
+}
+
+#head1{
+	margin-left:30px;
+}
+
+#contain{
+	margin-left:30px;;
+	margin-top:10px;
+}
+
+.foot{
+	text-align:center;
+	font-size:10%;
+background-color:#3FF;
+margin-top:140px;
+}
